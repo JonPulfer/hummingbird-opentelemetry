@@ -1,5 +1,5 @@
 {
-  "originHash" : "51709ae6d399a17cb760ef8028501295873b0faf6ce93a4818f9e1bac744d769",
+  "originHash" : "6ad72bfdb87ecb6b1a91b40bfcce65224a012ffb09bd6df94ce7be645b86c3f5",
   "pins" : [
     {
       "identity" : "async-http-client",
@@ -15,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/grpc/grpc-swift.git",
       "state" : {
-        "revision" : "9e464a75079928366aa7041769a271fac89271bf",
-        "version" : "1.0.0"
+        "revision" : "6a90b7e77e29f9bda6c2b3a4165a40d6c02cfda1",
+        "version" : "1.23.0"
       }
     },
     {
@@ -24,8 +24,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/hummingbird-project/hummingbird.git",
       "state" : {
-        "revision" : "6c568da113a7abe712e4a00883a85ff7745d6929",
-        "version" : "2.0.0"
+        "revision" : "d4f792d209f02b26a17c0105751220da65207fb2",
+        "version" : "2.0.1"
       }
     },
     {
@@ -114,8 +114,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-metrics.git",
       "state" : {
-        "revision" : "e382458581b05839a571c578e90060fff499f101",
-        "version" : "2.1.1"
+        "revision" : "e0165b53d49b413dd987526b641e05e246782685",
+        "version" : "2.5.0"
       }
     },
     {
@@ -177,8 +177,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-protobuf.git",
       "state" : {
-        "revision" : "88c7d15e1242fdb6ecbafbc7926426a19be1e98a",
-        "version" : "1.20.2"
+        "revision" : "edb6ed4919f7756157fe02f2552b7e3850a538e5",
+        "version" : "1.28.1"
       }
     },
     {

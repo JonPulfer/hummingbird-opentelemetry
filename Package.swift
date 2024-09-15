@@ -15,7 +15,7 @@ let package = Package(
 	dependencies: [
 		.package(url: "https://github.com/open-telemetry/opentelemetry-swift", from: "1.0.0"),
 		.package(url: "https://github.com/grpc/grpc-swift.git", from: "1.0.0"),
-		.package(url: "https://github.com/apple/swift-protobuf.git", from: "1.20.2"),
+		.package(url: "https://github.com/apple/swift-protobuf.git", exact: "1.28.1"),
 		.package(url: "https://github.com/apple/swift-log.git", from: "1.4.4"),
 		.package(url: "https://github.com/apple/swift-metrics.git", from: "2.1.1"),
 		.package(url: "https://github.com/hummingbird-project/hummingbird.git", from: "2.0.0"),
